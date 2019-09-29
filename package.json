@@ -78,7 +78,7 @@
     "express": "^4.16.2",
     "font-awesome": "^4.7.0",
     "habitat": "^3.1.2",
-    "helmet": "^3.9.0",
+    "helmet": "^3.21.1",
     "mofo-bootstrap": "4.0.1",
     "mofo-ui": "^1.7.0",
     "moment": "^2.19.1",
