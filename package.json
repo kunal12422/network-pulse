@@ -82,7 +82,7 @@
     "mofo-bootstrap": "4.0.1",
     "mofo-ui": "^1.7.0",
     "moment": "^2.19.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.14.1",
     "npm-run-all": "^4.1.1",
     "postcss-cli-simple": "^1.0.3",
     "prop-types": "^15.6.0",
