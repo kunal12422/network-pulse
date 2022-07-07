@@ -81,7 +81,7 @@
     "helmet": "^3.9.0",
     "mofo-bootstrap": "4.0.1",
     "mofo-ui": "^1.7.0",
-    "moment": "^2.19.1",
+    "moment": "^2.29.4",
     "node-sass": "^4.5.2",
     "npm-run-all": "^4.1.1",
     "postcss-cli-simple": "^1.0.3",
