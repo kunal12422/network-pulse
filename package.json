@@ -82,7 +82,7 @@
     "mofo-bootstrap": "4.0.1",
     "mofo-ui": "^1.7.0",
     "moment": "^2.19.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^7.0.2",
     "npm-run-all": "^4.1.1",
     "postcss-cli-simple": "^1.0.3",
     "prop-types": "^15.6.0",
@@ -96,7 +96,7 @@
     "react-select": "^1.0.0-rc.10",
     "react-tag-autocomplete": "^5.4.1",
     "shx": "^0.2.1",
-    "snyk": "^1.42.7",
+    "snyk": "^1.996.0",
     "url": "^0.11.0",
     "webpack": "^2.7.0"
   },
